@@ -28,6 +28,7 @@ Kaggle Dataset
 ├── Jenil_Task4.ipynb
 ├── Jenil_Task5.ipynb
 └── README.md
+
 📌 Task 1 – Exploratory Data Analysis on Retail Sales Data
 📖 Project Overview
 
@@ -122,10 +123,8 @@ import re
 import nltk
 import matplotlib.pyplot as plt
 import seaborn as sns
-
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
-
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
@@ -160,11 +159,11 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
-
 from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import mean_squared_error, r2_score
+
 
 📈 Learning Outcomes
 Through these projects, I learned:
